@@ -71,7 +71,6 @@ app.MapPut("books/{id:int}", async (BookstoreContext context, Book updatedBook, 
 app.MapDelete("books/{id:int}", async (BookstoreContext context, int id) =>
 {
     var book = await context.Books.FindAsync(id);
-
     if (book == null)
     {
         return Results.NotFound();
