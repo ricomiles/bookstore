@@ -103,3 +103,4 @@
 /home/freezing/training/BookStore/obj/Debug/net8.0/BookStore.pdb
 /home/freezing/training/BookStore/obj/Debug/net8.0/BookStore.genruntimeconfig.cache
 /home/freezing/training/BookStore/obj/Debug/net8.0/ref/BookStore.dll
+/home/freezing/training/BookStore/obj/Debug/net8.0/BookStore.sourcelink.json
