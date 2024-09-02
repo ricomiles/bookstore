@@ -8,5 +8,4 @@ using Microsoft.EntityFrameworkCore;
 namespace BookStore.Models;
 
 
-[Table("book")]
 public record Book(int Id, string Title, string Author, string Genre, double Price);
